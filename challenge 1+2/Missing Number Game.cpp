@@ -40,7 +40,6 @@ void seqofnumber(int min, int max) {
     }
     cout << endl;
 
-    // ÊÍÑíÑ ÇáÐÇßÑÉ
     delete[] seq;
 }
 
